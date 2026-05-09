@@ -1,4 +1,4 @@
-package FinalProject;
+package Quizzer;
 
 public class Question {
     String question;

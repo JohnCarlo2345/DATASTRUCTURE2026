@@ -1,4 +1,4 @@
-package FinalProject;
+package Quizzer;
 
 import java.util.*;
 import java.io.*;
