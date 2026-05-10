@@ -5,7 +5,7 @@ import java.util.*;
 
 public class GroceryManager {
     private List<GroceryItem> itemList;
-    private Stack<GroceryItem> actionStack; // Recommended by teacher
+    private Stack<GroceryItem> actionStack;
     private final String FILE_NAME = "grocery_data.txt";
 
     public GroceryManager() {

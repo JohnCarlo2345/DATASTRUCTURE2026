@@ -5,7 +5,7 @@ import java.util.*;
 
 public class MovieManager {
     private List<Movie> movieList;
-    private Stack<Movie> actionStack; // Recommended by teacher
+    private Stack<Movie> actionStack;
     private final String FILE_NAME = "movie_data.txt";
 
     public MovieManager() {
